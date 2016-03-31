@@ -1,0 +1,10 @@
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\bin\Debug\Client.exe
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\bin\Debug\Client.pdb
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\obj\x86\Debug\Client.exe
+c:\users\probook\documents\visual studio 2010\Projects\ConsoleApplication2\Client\obj\x86\Debug\Client.pdb
+F:\Work\204441 Concurrent Programming\CC7\ConsoleApplication2\Client\obj\x86\Debug\Client.exe
+F:\Work\204441 Concurrent Programming\CC7\ConsoleApplication2\Client\obj\x86\Debug\Client.pdb
+F:\Work\204441 Concurrent Programming\CC7\ConsoleApplication2\Client\bin\Debug\Client.exe
+F:\Work\204441 Concurrent Programming\CC7\ConsoleApplication2\Client\bin\Debug\Client.pdb
+F:\Work\204441 Concurrent Programming\CC7\ConsoleApplication2\Client\obj\x86\Debug\Client.csprojResolveAssemblyReference.cache
